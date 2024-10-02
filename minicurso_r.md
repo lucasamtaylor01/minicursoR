@@ -26,5 +26,3 @@
 1. É necessário fazer a solicitação correta para o banco de dados. Temos 1TB de dados, mas algumas interações feitas custam 6GB, 8GB, etc;
 
 2. Geralmente, para dados de Powerhouse, temos demoram para rodar. Geralmente, utiliza-se frações da base para economizar tempo e memória;
-
-3. 
