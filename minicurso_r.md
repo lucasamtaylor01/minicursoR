@@ -17,6 +17,8 @@
 7. Material da palestra: [Repositório no Github](https://github.com/williamorim/aMostraEstatistica2024)
 
 8. GGLPLOT2. [Site oficial da documentação](https://ggplot2.tidyverse.org/)
+
+9. Shiny. [Site oficial do Shiny](https://shiny.posit.co/)
 ---
 
 ## Observações do curso
